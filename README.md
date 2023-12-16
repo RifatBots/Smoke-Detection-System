@@ -46,6 +46,9 @@ Safety in Style:
 
 The components are housed in a stylish casing, making the smoke detection system not only functional but also aesthetically pleasing.
 Showcase:
+
 [Video and Photo Documentation:](https://youtu.be/bnZ62TvE5vw?si=oVsch5xczKMwWsAF)
+
+
 The project includes a video and photo documentation demonstrating the smoke detection system in action. You'll see the system detecting smoke and promptly activating the buzzer, showcasing its effectiveness in enhancing safety.
 This DIY smoke detection system with Arduino is a practical and user-friendly solution that you can easily build yourself. It combines essential components with a touch of style, making it an effective and visually appealing addition to your safety toolkit.
