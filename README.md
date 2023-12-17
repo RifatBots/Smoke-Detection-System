@@ -1,10 +1,10 @@
 
-In this DIY project, we've created a smoke detection system using Arduino, combining technology and simplicity to enhance safety. Here's a quick overview:
+In this project, we've created a smoke detection system using Arduino, combining technology and simplicity to enhance safety. Here's a quick overview:
 
 Components:
 Arduino Uno:
 
-The brain of the system, responsible for processing data from the smoke sensor and controlling the buzzer.
+The brain of the system is responsible for processing data from the smoke sensor and controlling the buzzer.
 Smoke Sensor:
 
 A specialized sensor designed to detect the presence of smoke particles in the air.
@@ -16,13 +16,13 @@ Li-ion Battery:
 Provides a portable power source for the system, ensuring it remains functional even during power outages.
 Type C Charging Module:
 
-Enables convenient and fast charging for the Li-ion battery, making the system easy to maintain.
+It enables convenient and fast charging for the Li-ion battery, making the system easy to maintain.
 Switch:
 
 A simple switch to turn the system on or off manually.
 Casing:
 
-A sleek and protective casing for the components, giving the project a polished and professional look.
+A sleek and protective casing for the components gives the project a polished and professional look.
 Functionality:
 Smoke Detection:
 
@@ -35,7 +35,7 @@ Buzzer Activation:
 If smoke is detected, the buzzer is activated, emitting a loud and distinctive sound to alert you to potential danger.
 Switch Control:
 
-The switch allows you to easily turn the system on or off, providing flexibility in its use.
+The switch allows you to easily turn the system on or off, providing flexibility.
 Li-ion Battery Power:
 
 The project is powered by a Li-ion battery, making it portable and resilient to power interruptions.
@@ -44,7 +44,7 @@ Charging Module:
 The Type C charging module ensures a hassle-free and quick way to recharge the Li-ion battery when needed.
 Safety in Style:
 
-The components are housed in a stylish casing, making the smoke detection system not only functional but also aesthetically pleasing.
+The components are housed in a stylish casing, making the smoke detection system functional and aesthetically pleasing.
 Showcase:
 
 [Video and Photo Documentation:](https://youtu.be/bnZ62TvE5vw?si=oVsch5xczKMwWsAF)
